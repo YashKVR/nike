@@ -7,7 +7,7 @@ import {
   CustomerReviews,
   Subscribe,
   Footer
-} from "./sections/index";
+} from "./sections";
 
 import Nav from "./components/Nav"
 
